@@ -8,7 +8,7 @@ O usuário pode criar e nomear coleções, onde as cartas podem ser inseridas. C
 
 Primeiramente realize um:
 ```bash
-  git clone
+  git clone https://github.com/ryan-fauder/FlashCard.git
 ```
 Em seguida, abra um terminal na pasta em que está o código do programa e execute:
 
