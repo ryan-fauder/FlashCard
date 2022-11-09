@@ -2,7 +2,7 @@
 
 Projeto de Flash Cards com Coleções desenvolvido na linguagem C.
 
-O usuário pode criar e nomear coleções, onde as cartas podem ser inseridas. Conforme o Spaced Repetition System (SRS), é importante revisar conceitos com períodos espaçados de tempo para consolidar esse conhecimento. Nesse sentido, o projeto desenvolvido baseia-se nesse sistema. As cartas possuem um intervalo de tempo para que precisem ser jogadas novamente e, assim, auxiliar na rentenção do conhecimentos.
+O usuário pode criar e nomear coleções, onde as cartas podem ser inseridas. Conforme o Spaced Repetition System (SRS), é importante revisar conceitos com períodos espaçados de tempo para consolidar esse conhecimento. Nesse sentido, o projeto desenvolvido baseia-se nesse sistema. As cartas possuem um intervalo de tempo para que precisem ser jogadas novamente e, assim, auxiliar na retenção do conhecimentos.
 
 ## Como começar?
 
